@@ -1,0 +1,15 @@
+/node_modules
+/dist
+_old
+.DS_Store
+
+# jetbrains IDE
+*.iml
+.idea
+
+.vscode/*
+
+.npmrc
+.eslintcache
+.env
+.turbo

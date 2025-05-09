@@ -1,0 +1,17 @@
+{
+  "name": "crawl-manus",
+  "version": "1.0.0",
+  "main": "crawl-manus.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "puppeteer": "^24.8.0",
+    "winston": "^3.17.0",
+    "yargs": "github:yargs/yargs"
+  },
+  "type": "module"
+}

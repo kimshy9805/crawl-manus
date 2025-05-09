@@ -1,0 +1,20 @@
+2025-05-05 13:48:00 INFO: 브라우저 설정 중 (Headless: true)
+2025-05-05 13:48:03 INFO: 브라우저 실행 완료
+2025-05-05 13:48:03 INFO: cohete.lab 프로필 페이지로 이동: https://www.instagram.com/cohete.lab/
+2025-05-05 13:48:06 INFO: 페이지 로딩 완료
+2025-05-05 13:48:06 INFO: 프로필 정보 추출 시작
+2025-05-05 13:48:06 INFO: 프로필 정보 추출 완료
+2025-05-05 13:48:06 INFO: 추출된 데이터: {"username":"cohete.lab","posts":"3 posts","followers":"3","following":"3","bio":"코히트랩(COHETE.LAB)","name":"N/A"}
+2025-05-05 13:48:06 INFO: 브라우저 종료
+2025-05-05 13:48:06 INFO: 크롤링 성공
+2025-05-05 13:48:06 INFO: 크롤링 프로세스 종료
+2025-05-05 13:51:03 INFO: 브라우저 설정 중 (Headless: true)
+2025-05-05 13:51:04 INFO: 브라우저 실행 완료
+2025-05-05 13:51:04 INFO: cohete.lab 프로필 페이지로 이동: https://www.instagram.com/cohete.lab/
+2025-05-05 13:51:06 INFO: 페이지 로딩 완료
+2025-05-05 13:51:06 INFO: 프로필 정보 추출 시작
+2025-05-05 13:51:06 INFO: 프로필 정보 추출 완료
+2025-05-05 13:51:06 INFO: 추출된 데이터: {"username":"cohete.lab","posts":"3 posts","followers":"3","following":"3","bio":"코히트랩(COHETE.LAB)","name":"N/A"}
+2025-05-05 13:51:06 INFO: 브라우저 종료
+2025-05-05 13:51:06 INFO: 크롤링 성공
+2025-05-05 13:51:06 INFO: 크롤링 프로세스 종료
